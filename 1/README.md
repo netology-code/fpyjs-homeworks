@@ -38,7 +38,7 @@
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания:
 
 1. Браузер [Chrome](https://www.google.com/intl/ru/chrome/) или [FireFox](https://www.mozilla.org/ru/firefox/new/) одной из последних версий.
-2. Среда разработки [VS Code](https://code.visualstudio.com).
+2. Среда разработки [VSCode](https://code.visualstudio.com).
 
 ### Задание 1
 
